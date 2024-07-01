@@ -1,11 +1,10 @@
 .footer {
   background-color: #4f4f4f;
   width: 100%;
-  height: 100%;
 }
 
 .footer__contents {
-  width: 1288px;
+  max-width: 1288px;
   height: 200px;
   margin: 0 auto;
 }
@@ -31,6 +30,9 @@
 }
 
 .footer__address {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 
 .address__wrap {

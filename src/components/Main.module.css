@@ -4,7 +4,7 @@
 }
 
 .main__contents {
-  width: 1288px;
+  max-width: 1288px;
   margin: 0 auto;
 }
 
