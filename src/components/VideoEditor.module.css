@@ -1,0 +1,26 @@
+.video_editor {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.upload_btn {
+  width: 400px;
+  background: #2f80ed;
+  margin-top: 24px;
+  font-style: normal;
+}
+
+.title_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.conversion_btn_wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 16px;
+}

@@ -1,0 +1,25 @@
+.header {
+  width: 100%;
+}
+
+.header__contents {
+  width: 1288px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+}
+
+.nav__list {
+  display: flex;
+}
+
+.nav__list li {
+  color: #828282;
+  margin-right: 1rem;
+}
+
+.nav__list li:active {
+  color: #333;
+}

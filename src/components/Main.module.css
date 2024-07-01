@@ -1,0 +1,13 @@
+.main {
+  padding-top: 2rem;
+  padding-bottom: 7rem;
+}
+
+.main__contents {
+  width: 1288px;
+  margin: 0 auto;
+}
+
+.main__title {
+  margin-bottom: 1rem;
+}
